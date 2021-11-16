@@ -38,7 +38,7 @@ Before You Deploy make sure you Starred & Forked **[This Repo!](https://github.c
 ## The Easy Way ⚡️
 
 ### With Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-fork/Callsmusic-Plus)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/INDOHACKER-XODE/Callsmusic-Plus)
 
 ### With Zeet
 <a href="https://zeet.co/new/template/itz-fork/yeah-my-man"><img src="https://user-images.githubusercontent.com/77770753/119371372-fe917900-bcd3-11eb-8db5-f5e8063cdd1c.jpg" width="94" height="28"></a>
@@ -65,6 +65,8 @@ Read The **[Official Docs](https://itz-fork.gitbook.io/callsmusic-plus/)** For t
 - **[CallsMusic](https://github.com/callsmusic/callsmusic) ~ This is the base Repo! ❤️**
 - **[Roj](https://github.com/rojserbest) & [Marvin](https://github.com/BlackStoneReborn)** : development
 - **[Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX)** : PyTgCalls
+- **[INDOHACKER-XODE](https://github.com/INDOHACKER-XODE)**
+- **Fabian Syah Al Ghiffari**
 - **Mr Dark prince**
 - **TeamDaisyX**
 - **TheHamkerCat**
